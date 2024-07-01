@@ -13,7 +13,7 @@ Welcome to the Fitness Tracker Application repository! This Flutter app enables 
 
 ## Screenshots
 
-<img src="assets\fitness_tracker\assets\Fitness App (1).png" alt="Fitness Tracker" width="800" height="600">
+<img src="assets\Fitness App (1).png" alt="Fitness Tracker" width="800" height="600">
 
 ## Installation
 
